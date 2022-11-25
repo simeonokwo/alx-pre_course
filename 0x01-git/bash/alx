@@ -1,0 +1,8 @@
+#!/bin/bash
+ALX
+
+LS
+ls
+ALXroot@2d47133cb944:/alx-pre_course/0x01-git/bash# cat alx
+#!/bin/bash
+ALXroot@2d47133cb944:/alx-pre_course/0x01-git/bash# cat > school
